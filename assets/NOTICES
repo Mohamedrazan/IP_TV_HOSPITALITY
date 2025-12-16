@@ -14493,6 +14493,7 @@ matcher
 path
 source_span
 string_scanner
+watcher
 
 Copyright 2014, the Dart project authors. 
 
